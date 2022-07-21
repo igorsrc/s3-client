@@ -16,3 +16,6 @@
 
 # dir
 _docker
+
+# Config
+config.yaml
