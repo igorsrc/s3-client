@@ -19,3 +19,6 @@ _docker
 
 # Config
 config.yaml
+
+# Workspace
+.idea
