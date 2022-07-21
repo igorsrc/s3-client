@@ -14,11 +14,11 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# dir
+# Docker
 _docker
 
 # Config
 config.yaml
 
 # Workspace
-.idea
+.idea/*
